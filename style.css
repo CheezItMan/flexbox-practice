@@ -4,6 +4,6 @@
   justify-content: flex-end;
 }
 
-.container > .home {
-  margin-right: auto;
+.home, .logout {
+  flex: 1;
 }
